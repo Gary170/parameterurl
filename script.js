@@ -17,5 +17,5 @@ var getParams = function (url) {
 		var pair = vars[i].split('=');
 		params[pair[0]] = decodeURIComponent(pair[1]);
 	}
-	no1 = params;
+	params = Number(document.getElementById("number1").value);
 };
