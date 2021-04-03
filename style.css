@@ -1,0 +1,17 @@
+#firsth1 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 25px;
+}
+.style {
+ width: 300px;
+border-color: lightgreen;
+border-width: 3.5px;
+}
